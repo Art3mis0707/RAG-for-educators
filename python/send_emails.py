@@ -271,7 +271,7 @@ with open("sample_email.txt", "w") as file:
 
 # Configure your SMTP credentials.
 EMAIL_SENDER = "maildummy049@gmail.com"
-EMAIL_PASSWORD = "irni appy nfnu debq"  # Replace with your app-specific password if using Gmail.
+EMAIL_PASSWORD = ""  # Replace with your app-specific password if using Gmail.
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
 
